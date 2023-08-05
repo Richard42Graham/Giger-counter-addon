@@ -1823,19 +1823,23 @@
     (uuid ffb897ed-3440-4627-9ed8-1872bcb76a3e)
   )
 
+  (text "Ignore or disconnect GPIO 0 and Reset for ftdi connenter.\n"
+    (at 198.12 140.335 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 471218a7-b6ac-46ef-9327-8d09e4bcf2a3)
+  )
+  (text "optonal expantion 	" (at 118.11 36.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b3a1709b-fc5a-4640-8f0d-60b44765f622)
+  )
   (text "NR6045T680M - inductor\nNSR0530HT1G - revser diode" (at 73.66 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bd82fff6-8404-4461-954f-9bebff96482c)
   )
-  (text "https://circuitmaker.com/Projects/Details/YannickVerbelen/Geiger-Counter"
+  (text "giger counter refrance\nhttps://circuitmaker.com/Projects/Details/YannickVerbelen/Geiger-Counter"
     (at 50.8 147.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f1c6b8e4-c3c4-4f71-85c2-69ec9ae2b723)
-  )
-  (text "barrel jack form labitat power input\nuse MCH lighs for footprint\n"
-    (at 45.72 48.26 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f255e82a-7dd8-4d6b-b89f-93bb51cd14fe)
   )
 
   (label "ADC" (at 208.28 62.23 180)
